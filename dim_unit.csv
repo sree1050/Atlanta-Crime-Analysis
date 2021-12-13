@@ -1,0 +1,1835 @@
+patrolid,unit,neighborhood
+210,B,Pine Hills
+406,I,East Ardley Road
+114,G,Brookview Heights
+510,V,Capitol Gateway
+306,Y,Lakewood Heights
+110,I,Collier Heights
+112,D,Riverside
+114,H,Old Gordon
+606,N,Cabbagetown
+311,X,Perkerson
+305,W,East Atlanta
+50,X,null
+409,R,Venetian Hills
+602,N,Cabbagetown
+209,B,North Buckhead
+405,I,null
+406,I,Ivan Hill
+605,O,East Lake
+310,Z,Polar Rock
+608,X,Sylvan Hills
+109,G,Monroe Heights
+108,I,null
+607,W,East Atlanta
+311,Z,Browns Mill Park
+303,M,Downtown
+409,S,Venetian Hills
+104,T,Washington Park
+405,J,Center Hill
+609,O,Kirkwood
+410,R,Southwest
+502,F,Virginia Highland
+505,M,Old Fourth Ward
+607,W,State Facility
+101,T,Ashview Heights
+112,H,Fairburn Heights
+110,G,Carey Park
+204,C,Cross Creek
+508,D,Underwood Hills
+501,F,Morningside/Lenox Park
+101,M,Downtown
+605,W,Capitol Gateway
+306,X,Sylvan Hills
+306,X,Sylvan Hills
+306,X,Sylvan Hills
+306,X,Sylvan Hills
+409,I,Horseshoe Community
+504,E,Georgia Tech
+207,D,Underwood Hills
+607,W,Boulevard Heights
+101,H,Bankhead/Bolton
+101,T,null
+210,B,Buckhead Village
+204,B,Buckhead Forest
+710,null,null
+308,null,null
+405,N,Poncey-Highland
+607,W,Benteen Park
+203,Y,Lakewood Heights
+311,W,Grant Park
+405,T,West End
+205,B,South Tuxedo Park
+204,D,Blandtown
+406,I,Green Forest Acres
+308,Z,Leila Valley
+106,J,null
+311,Z,Rosedale Heights
+201,C,Ridgewood Heights
+106,G,Rockdale
+102,L,English Avenue
+411,I,Magnum Manor
+111,H,Old Gordon
+312,Z,Blair Villa/Poole Creek
+207,E,Brookwood
+410,R,Laurens Valley
+113,H,Carroll Heights
+110,G,West Highlands
+208,E,null
+212,F,Morningside/Lenox Park
+211,M,Old Fourth Ward
+503,E,null
+510,T,Atlanta University Center
+110,G,Scotts Crossing
+105,J,Center Hill
+605,W,Grant Park
+609,M,Old Fourth Ward
+104,J,Dixie Hills
+311,X,Sylvan Hills
+308,Z,Norwood Manor
+603,F,Virginia Highland
+412,P,Ashley Courts
+111,H,Adamsville
+109,G,Carey Park
+409,R,Laurens Valley
+309,X,Hammond Park
+205,C,Memorial Park
+503,E,Georgia Tech
+210,E,Loring Heights
+407,R,Southwest
+505,E,Midtown
+205,C,Wyngate
+503,T,West End
+301,E,Midtown
+209,A,Tuxedo Park
+602,N,null
+602,M,Old Fourth Ward
+609,N,Reynoldstown
+208,D,Berkeley Park
+406,I,null
+110,G,Carver Hills
+510,M,Old Fourth Ward
+202,A,Whitewater Creek
+111,I,null
+506,M,Midtown
+203,D,Underwood Hills
+107,G,Carey Park
+307,Y,Lakewood Heights
+502,E,Ansley Park
+412,P,Briar Glen
+109,G,Almond Park
+207,E,Ardmore
+509,E,Midtown
+406,H,Adamsville
+205,C,Brandon
+403,F,Piedmont Heights
+407,H,Baker Hills
+212,M,Old Fourth Ward
+104,K,Hunter Hills
+404,S,Cascade Avenue/Road
+407,H,Fairburn Mays
+412,P,Old Fairburn Village
+202,A,Mt. Paran/Northside
+204,E,Home Park
+402,T,West End
+413,P,Elmco Estates
+206,B,Peachtree Heights West
+408,R,Adams Park
+202,A,Mt. Paran Parkway
+501,Z,Polar Rock
+113,G,Scotts Crossing
+204,C,Hanover West
+505,E,Marietta Street Artery
+208,B,North Buckhead
+207,E,Brookwood Hills
+511,Z,Orchard Knob
+103,G,English Park
+205,C,Collier Hills
+409,R,Campbellton Road
+208,B,Lenox
+103,K,Bankhead
+104,E,Midtown
+105,J,Grove Park
+412,P,Meadowbrook Forest
+113,G,Chattahoochee
+602,W,East Atlanta
+503,Y,Lakewood Heights
+211,B,Buckhead Village
+211,B,Buckhead Village
+105,J,Grove Park
+607,W,Chosewood Park
+501,R,Southwest
+403,S,Fort McPherson
+401,T,Westview
+508,M,Downtown
+508,V,Mechanicsville
+609,V,Mechanicsville
+108,J,Dixie Hills
+206,B,Peachtree Heights East
+105,J,Grove Park
+203,B,North Buckhead
+413,P,Cascade Green
+413,P,Fairburn Tell
+303,Y,South Atlanta
+512,M,Castleberry Hill
+111,I,Westhaven
+413,P,Fairway Acres
+406,I,Audobon Forest
+303,J,Dixie Hills
+105,K,Bankhead
+310,I,Florida Heights
+207,D,Berkeley Park
+407,H,Mays
+208,B,Peachtree Hills
+202,B,North Buckhead
+109,D,Blandtown
+407,H,Mays
+406,I,Audobon Forest
+303,Y,South Atlanta
+206,B,South Tuxedo Park
+311,Z,Glenrose Heights
+213,F,Virginia Highland
+208,A,Chastain Park
+106,K,Hunter Hills
+403,S,Venetian Hills
+310,Z,Swallow Circle/Baywood
+503,B,Garden Hills
+405,T,Westview
+106,J,Grove Park
+607,W,Woodland Hills
+303,V,Pittsburgh
+413,P,Lake Estates
+202,A,East Chastain Park
+410,R,Campbellton Road
+106,K,Bankhead
+302,V,Pittsburgh
+202,A,West Paces Ferry/Northside
+412,P,Niskey Cove
+104,L,English Avenue
+205,K,Mozley Park
+504,E,Marietta Street Artery
+409,R,Southwest
+113,G,Bolton Hills
+101,T,Harris Chiles
+605,M,Downtown
+303,Y,South Atlanta
+409,I,Adams Park
+304,W,Grant Park
+301,V,Pittsburgh
+607,Y,Chosewood Park
+611,N,Candler Park
+206,B,Lenox
+303,S,Cascade Avenue/Road
+207,C,Wyngate
+208,B,Buckhead Village
+305,Y,The Villages at Carver
+303,V,Capitol Gateway
+303,Y,South Atlanta
+105,L,English Avenue
+211,F,Lindridge/Martin Manor
+307,Y,South Atlanta
+208,B,Peachtree Park
+108,J,Penelope Neighbors
+507,V,Mechanicsville
+105,L,English Avenue
+303,S,Oakland City
+103,O,Edgewood
+201,C,Brandon
+104,T,Harris Chiles
+606,N,Reynoldstown
+604,F,Druid Hills
+203,G,Almond Park
+112,B,North Buckhead
+201,B,Buckhead Village
+603,E,Midtown
+511,M,Castleberry Hill
+213,F,Piedmont Heights
+112,J,Dixie Hills
+411,S,Cascade Avenue/Road
+407,H,Boulder Park
+104,T,West End
+412,P,Niskey Lake
+409,R,Adams Park
+306,Y,The Villages at Carver
+507,M,Downtown
+305,Y,Lakewood Heights
+202,A,Chastain Park
+608,F,Lindridge/Martin Manor
+206,C,Woodfield
+212,F,Lindridge/Martin Manor
+301,X,Capitol View
+411,R,Greenbriar
+203,D,Riverside
+108,J,Harvel Homes Community
+604,H,Baker Hills
+403,S,Oakland City
+206,C,Woodfield
+203,D,Riverside
+606,O,Reynoldstown
+207,B,Peachtree Heights East
+507,M,Downtown
+210,B,Buckhead Heights
+111,H,Oakcliff
+413,P,Ben Hill Pines
+207,M,Downtown
+505,G,Carey Park
+413,R,Adams Park
+410,R,Venetian Hills
+414,P,Tampa Park
+103,J,Grove Park
+205,B,Peachtree Park
+511,E,Midtown
+308,W,Custer/McDonough/Guice
+209,A,Chastain Park
+303,V,Adair Park
+307,Z,Lakewood Heights
+408,S,Fort McPherson
+208,B,Lindbergh/Morosgo
+408,S,Venetian Hills
+414,I,West Manor
+405,I,Chalet Woods
+606,N,Grant Park
+203,D,Berkeley Park
+702,null,null
+603,F,Piedmont Heights
+508,M,Castleberry Hill
+404,T,Westview
+312,Z,South River Gardens
+502,I,Audobon Forest
+609,T,West End
+110,E,Midtown
+206,B,Garden Hills
+412,P,Ben Hill Terrace
+310,Z,Browns Mill Park
+407,H,Adamsville
+308,Z,Thomasville Heights
+104,T,Just Us
+507,W,Oakland
+305,V,Pittsburgh
+505,M,Downtown
+112,H,Bankhead/Bolton
+213,F,Morningside/Lenox Park
+309,X,Perkerson
+109,J,Grove Park
+411,P,Grove Park
+202,B,East Chastain Park
+312,Z,Browns Mill Park
+110,G,Rockdale
+102,T,Ashview Heights
+209,A,Kingswood
+202,C,Argonne Forest
+102,K,Washington Park
+414,R,Greenbriar
+501,E,Marietta Street Artery
+602,O,East Lake
+101,L,Vine City
+509,E,Marietta Street Artery
+212,B,North Buckhead
+602,N,Inman Park
+204,E,Midtown
+603,M,Old Fourth Ward
+506,E,Midtown
+709,null,null
+312,X,Perkerson
+407,N,Poncey-Highland
+109,I,Collier Heights
+412,P,Kings Forest
+412,P,Cascade Green
+414,P,Ben Hill Forest
+209,B,Brookhaven
+105,S,Oakland City
+412,R,Greenbriar
+412,null,Brookhaven
+501,I,Center Hill
+211,B,Peachtree Hills
+504,E,Midtown
+101,T,Atlanta University Center
+510,M,Downtown
+305,Z,Lakewood
+502,E,Midtown
+512,V,Capitol Gateway
+609,O,Edgewood
+501,E,Home Park
+305,Y,South Atlanta
+407,H,Wildwood (NPU-H)
+303,W,Ormewood Park
+402,S,Cascade Avenue/Road
+101,J,Dixie Hills
+605,W,Oakland
+413,P,Butner/Tell
+408,S,Oakland City
+111,I,Green Forest Acres
+303,M,Castleberry Hill
+112,I,Collier Heights
+412,Q,Midwest Cascade
+610,N,Inman Park
+406,I,Audobon Forest West
+412,P,Heritage Valley
+407,H,Fairburn Road/Wisteria Lane
+404,K,Bankhead
+412,P,Sandlewood Estates
+205,C,Castlewood
+106,O,East Lake
+110,J,Grove Park
+205,C,Channing Valley
+608,N,Druid Hills
+401,R,Greenbriar
+402,S,Oakland City
+204,B,Lenox
+604,Y,Lakewood Heights
+205,D,Berkeley Park
+212,N,Poncey-Highland
+102,L,Vine City
+602,N,Poncey-Highland
+406,S,Cascade Avenue/Road
+307,Y,Amal Heights
+605,V,Capitol Gateway
+413,P,Rue Royal
+507,L,English Avenue
+204,C,Westover Plantation
+501,M,Downtown
+413,P,Ben Hill Terrace
+305,V,Mechanicsville
+308,null,Thomasville Heights
+414,P,Brentwood
+502,E,Mechanicsville
+211,E,Lenox
+503,M,Downtown
+402,I,Adams Park
+406,I,Beecher Hills
+408,R,Campbellton Road
+202,A,Tuxedo Park
+107,K,Hunter Hills
+306,X,Hammond Park
+201,A,Pleasant Hill
+606,O,Kirkwood
+604,F,Virginia Highland
+403,S,Cascade Avenue/Road
+103,T,The Villages at Castleberry H
+205,C,Springlake
+501,E,Atlantic Station
+312,Z,Orchard Knob
+102,T,Atlanta University Center
+105,X,Hammond Park
+508,E,Midtown
+506,M,Downtown
+203,D,Blandtown
+405,I,Harland Terrace
+606,W,Grant Park
+413,P,Mellwood
+101,M,Castleberry Hill
+307,Z,Lakewood
+612,M,Castleberry Hill
+207,E,Loring Heights
+313,Z,South River Gardens
+308,S,Cascade Avenue/Road
+603,M,Downtown
+312,Z,Glenrose Heights
+211,B,Peachtree Park
+113,J,Center Hill
+105,K,Washington Park
+205,C,Colonial Homes
+207,C,Collier Hills
+104,K,Washington Park
+50,X,null
+105,K,Mozley Park
+501,L,English Avenue
+108,G,Bolton Hills
+206,D,Berkeley Park
+310,Z,Rosedale Heights
+209,B,East Chastain Park
+410,R,Fort Valley
+413,T,West End
+406,H,Wildwood (NPU-H)
+310,Z,Glenrose Heights
+310,Z,Lakewood
+412,P,Mt. Gilead Woods
+412,P,Greenbriar Village
+608,N,Inman Park
+601,M,Sweet Auburn
+113,K,Bankhead
+213,N,Inman Park
+601,N,Poncey-Highland
+609,W,East Atlanta
+204,D,Riverside
+404,I,Florida Heights
+406,H,Mays
+405,X,Hammond Park
+305,V,Peoplestown
+113,G,Carey Park
+602,F,Virginia Highland
+101,J,Grove Park
+312,Z,Rosedale Heights
+606,W,Cabbagetown
+207,D,Blandtown
+606,W,East Atlanta
+403,R,null
+305,Y,Joyland
+610,O,Kirkwood
+205,C,Peachtree Battle Alliance
+410,R,Adams Park
+206,B,Buckhead Forest
+203,D,Hills Park
+407,H,Wisteria Gardens
+202,A,Randall Mill
+110,J,Center Hill
+612,W,East Atlanta
+602,F,null
+604,W,Grant Park
+108,I,Westhaven
+409,M,Downtown
+303,V,Mechanicsville
+413,P,Fairburn
+409,I,Cascade Heights
+205,C,Argonne Forest
+109,G,Scotts Crossing
+102,G,Carey Park
+507,T,Atlanta University Center
+210,B,Ridgedale Park
+207,E,Midtown
+611,O,East Lake
+407,H,Wilson Mill Meadows
+201,C,null
+203,D,Bolton
+209,O,The Villages at East Lake
+601,F,Virginia Highland
+106,L,English Avenue
+607,W,Grant Park
+204,C,Ridgewood Heights
+504,L,English Avenue
+701,null,null
+601,F,Atkins Park
+406,I,West Manor
+307,L,English Avenue
+413,P,Wildwood Forest
+606,W,Ormewood Park
+405,I,Florida Heights
+205,C,Arden/Habersham
+607,W,Custer/McDonough/Guice
+307,Y,Betmar LaVilla
+114,H,Carroll Heights
+205,C,Woodfield
+308,Z,Browns Mill Park
+306,Z,Polar Rock
+307,Y,Joyland
+111,I,Harland Terrace
+411,I,Audobon Forest
+504,M,Downtown
+211,F,Morningside/Lenox Park
+106,K,Washington Park
+213,F,Lindridge/Martin Manor
+210,M,Sweet Auburn
+401,L,Vine City
+312,W,Grant Park
+608,N,Candler Park
+302,V,Adair Park
+114,G,Atlanta Industrial Park
+309,I,Harland Terrace
+102,B,Ridgedale Park
+313,Z,Rebel Valley Forest
+611,O,The Villages at East Lake
+413,P,Arlington Estates
+113,H,Bankhead/Bolton
+401,O,Edgewood
+211,C,null
+210,B,North Buckhead
+505,E,Georgia Tech
+302,V,Peoplestown
+113,I,Collier Heights
+103,L,English Avenue
+414,P,null
+201,C,Westminster/Milmar
+106,I,null
+602,M,Downtown
+404,R,Southwest
+108,J,Center Hill
+212,E,null
+407,H,Bakers Ferry
+102,W,Grant Park
+114,G,English Park
+414,P,Huntington
+505,T,Atlanta University Center
+604,M,Old Fourth Ward
+113,G,Brookview Heights
+201,A,Paces
+101,V,Adair Park
+602,N,Reynoldstown
+208,B,South Tuxedo Park
+104,K,Mozley Park
+705,N,Inman Park
+403,V,Adair Park
+412,Q,Regency Trace
+414,P,Princeton Lakes
+207,C,null
+512,M,Old Fourth Ward
+304,V,Summerhill
+202,B,Buckhead Forest
+602,M,Sweet Auburn
+305,Y,Chosewood Park
+304,Z,Glenrose Heights
+202,A,Kingswood
+402,T,Westview
+512,V,Pittsburgh
+109,R,Greenbriar
+109,J,Center Hill
+201,A,West Paces Ferry/Northside
+509,M,Downtown
+301,X,Capitol View Manor
+406,R,Greenbriar
+502,K,Hunter Hills
+104,T,Atlanta University Center
+208,B,Peachtree Heights West
+204,C,Fernleaf
+208,M,Downtown
+406,I,Peyton Forest
+504,E,Atlanta University Center
+101,T,The Villages at Castleberry H
+108,J,West Lake
+406,I,Cascade Heights
+209,B,South Tuxedo Park
+104,T,Ashview Heights
+108,J,Grove Park
+413,P,Kings Forest
+212,F,Piedmont Heights
+210,B,Lindbergh/Morosgo
+503,E,Midtown
+308,Z,Rebel Valley Forest
+704,z,Rebel Valley Forest
+211,B,Lindbergh/Morosgo
+604,M,Sweet Auburn
+206,B,Peachtree Park
+105,J,West Lake
+304,Z,Thomasville Heights
+50,j,west lake
+208,B,Buckhead Forest
+105,K,Hunter Hills
+402,S,Bush Mountain
+408,S,Cascade Avenue/Road
+505,E,Ansley Park
+404,I,Westwood Terrace
+502,E,Sherwood Forest
+507,L,Vine City
+603,M,Midtown
+210,B,Lenox
+408,R,Kings Forest
+212,F,null
+201,A,Margaret Mitchell
+601,F,Druid Hills
+309,Z,Glenrose Heights
+206,B,Buckhead Village
+113,G,Monroe Heights
+706,null,Glenrose Heights
+107,T,Ashview Heights
+408,R,Venetian Hills
+206,D,Underwood Hills
+101,L,English Avenue
+201,C,Castlewood
+103,G,West Highlands
+603,N,Inman Park
+206,B,Lindbergh/Morosgo
+701,X,Inman Park
+206,A,Tuxedo Park
+307,Z,Swallow Circle/Baywood
+304,M,Downtown
+203,C,Vine City
+511,M,Downtown
+203,G,Scotts Crossing
+407,I,West Manor
+507,T,The Villages at Castleberry H
+612,N,Cabbagetown
+311,X,Hammond Park
+204,D,Underwood Hills
+605,V,Summerhill
+114,H,Bankhead Courts
+507,M,Castleberry Hill
+207,E,West Manor
+205,B,Lenox
+201,C,Wesley Battle
+603,W,Grant Park
+410,null,Campbellton Road
+204,D,Berkeley Park
+108,I,Florida Heights
+205,C,Wildwood (NPU-C)
+406,I,Green Acres Valley
+307,M,Old Fourth Ward
+107,J,Grove Park
+604,M,Downtown
+309,Z,Polar Rock
+106,L,Vine City
+203,D,Whittier Mill Village
+412,P,Ben Hill Acres
+104,L,Vine City
+404,T,West End
+106,K,Knight Park/Howell Station
+301,V,Adair Park
+607,W,Ormewood Park
+611,O,Kirkwood
+409,S,Cascade Avenue/Road
+510,M,Sweet Auburn
+103,L,Vine City
+401,T,West End
+305,Y,High Point
+414,P,Deerwood
+303,V,Summerhill
+201,A,Randall Mill
+205,D,Underwood Hills
+110,G,Almond Park
+414,P,Ben Hill
+109,T,West End
+401,V,Summerhill
+410,R,Pomona Park
+113,G,Lincoln Homes
+205,C,Collier Hills North
+608,O,Kirkwood
+112,O,Kirkwood
+707,null,null
+608,N,Lake Claire
+501,E,Midtown
+107,K,Bankhead
+106,K,English Avenue
+503,B,North Buckhead
+50,null,null
+111,J,null
+504,T,Ashview Heights
+512,M,Downtown
+204,D,Bolton
+313,Z,Blair Villa/Poole Creek
+104,J,Penelope Neighbors
+406,I,Magnum Manor
+202,N,Reynoldstown
+114,H,Bankhead/Bolton
+602,N,Candler Park
+407,H,Ridgecrest Forest
+206,B,North Buckhead
+509,M,Old Fourth Ward
+304,V,Peoplestown
+114,H,Fairburn Heights
+301,S,Oakland City
+101,G,Rockdale
+310,Y,Lakewood Heights
+313,Z,Browns Mill Park
+604,W,East Atlanta
+406,R,Adams Park
+308,X,Perkerson
+103,G,Brookview Heights
+204,I,Collier Heights
+313,Z,Glenrose Heights
+103,K,Knight Park/Howell Station
+307,Z,Glenrose Heights
+601,N,Inman Park
+403,S,Bush Mountain
+304,O,Kirkwood
+310,X,Hammond Park
+404,R,Adams Park
+608,W,Ormewood Park
+502,T,West End
+607,N,Candler Park
+311,E,Midtown
+205,M,Castleberry Hill
+502,F,Lindridge/Martin Manor
+313,X,Sylvan Hills
+609,O,Reynoldstown
+203,C,Cross Creek
+111,I,Florida Heights
+507,A,Kingswood
+103,K,Washington Park
+110,H,Adamsville
+511,O,Kirkwood
+205,E,Sherwood Forest
+410,P,null
+208,N,Poncey-Highland
+501,E,Georgia Tech
+405,M,Midtown
+406,T,West End
+401,T,Harris Chiles
+105,M,Downtown
+210,I,null
+603,K,Knight Park/Howell Station
+313,Z,Leila Valley
+411,V,Pittsburgh
+411,R,Southwest
+209,B,Buckhead Heights
+112,J,Center Hill
+111,M,Downtown
+606,O,Edgewood
+610,O,Edgewood
+206,C,null
+111,G,Carey Park
+312,X,Hammond Park
+505,E,Atlantic Station
+603,O,Edgewood
+204,E,Loring Heights
+510,J,Center Hill
+304,Z,South River Gardens
+212,B,Lindbergh/Morosgo
+302,V,Summerhill
+604,N,Poncey-Highland
+612,M,Sweet Auburn
+401,E,Loring Heights
+604,E,Loring Heights
+107,J,Center Hill
+102,J,Center Hill
+112,G,Brookview Heights
+101,K,Knight Park/Howell Station
+312,Z,Lakewood
+609,R,Campbellton Road
+603,O,The Villages at East Lake
+503,C,null
+605,W,Ormewood Park
+210,D,Berkeley Park
+210,B,null
+113,S,Venetian Hills
+309,Z,South River Gardens
+204,X,Capitol View
+208,B,Buckhead Heights
+404,I,Harland Terrace
+603,O,Kirkwood
+110,S,Oakland City
+402,T,null
+207,Z,Glenrose Heights
+609,N,Lake Claire
+207,J,Grove Park
+108,G,Almond Park
+312,X,Sylvan Hills
+402,M,Downtown
+112,I,Dixie Hills
+409,I,Green Forest Acres
+502,E,Home Park
+306,V,Peoplestown
+610,W,Grant Park
+103,V,Mechanicsville
+412,P,Arlington Estates
+408,I,Harland Terrace
+404,I,Westview
+203,F,Piedmont Heights
+308,Z,Orchard Knob
+101,X,Sylvan Hills
+209,A,East Chastain Park
+210,P,null
+302,Y,Lakewood Heights
+305,W,Grant Park
+206,L,Vine City
+510,V,Peoplestown
+412,M,Old Fourth Ward
+403,T,West End
+702,V,Adair Park
+501,E,Loring Heights
+105,T,Ashview Heights
+311,S,Oakland City
+207,B,Pine Hills
+103,B,North Buckhead
+210,F,Lindridge/Martin Manor
+304,W,Benteen Park
+210,C,Wesley Battle
+407,I,null
+502,S,Cascade Avenue/Road
+404,R,Pomona Park
+206,X,Sylvan Hills
+407,J,Center Hill
+414,T,West End
+413,P,Meadowbrook Forest
+611,O,Edgewood
+510,R,Southwest
+401,T,Atlanta University Center
+311,Z,Polar Rock
+205,E,null
+213,Y,South Atlanta
+403,I,Beecher Hills
+209,Y,Lakewood Heights
+211,B,Lenox
+111,R,Greenbriar
+412,R,Campbellton Road
+510,E,Midtown
+407,I,Westwood Terrace
+609,N,Inman Park
+204,A,Chastain Park
+313,Z,Orchard Knob
+606,N,Inman Park
+210,O,The Villages at East Lake
+301,X,Sylvan Hills
+209,J,Grove Park
+203,E,Brookwood Hills
+113,G,West Highlands
+609,W,Reynoldstown
+407,I,Green Forest Acres
+510,K,Bankhead
+503,E,Ansley Park
+404,H,Adamsville
+406,M,Downtown
+210,B,Peachtree Park
+502,D,Riverside
+406,T,Westview
+301,W,Woodland Hills
+306,B,Garden Hills
+402,I,null
+310,V,Pittsburgh
+206,B,null
+506,B,Lindbergh/Morosgo
+305,E,Midtown
+107,B,Brookhaven
+401,V,Adair Park
+409,E,Home Park
+103,E,null
+202,B,Lindbergh/Morosgo
+504,N,Poncey-Highland
+303,T,Westview
+304,S,Oakland City
+207,B,Buckhead Village
+410,S,Venetian Hills
+105,G,Scotts Crossing
+410,R,null
+305,M,Downtown
+508,M,Sweet Auburn
+302,X,Capitol View
+304,G,Carey Park
+211,M,Downtown
+211,B,Garden Hills
+202,C,Hanover West
+501,V,Pittsburgh
+407,H,Old Gordon
+505,E,Home Park
+105,L,Vine City
+608,O,Edgewood
+211,B,Peachtree Heights East
+106,T,West End
+404,S,Oakland City
+510,T,West End
+204,D,Hills Park
+204,R,Campbellton Road
+512,E,Midtown
+610,D,Underwood Hills
+405,L,Vine City
+604,Z,South River Gardens
+208,F,Lindridge/Martin Manor
+608,Z,Thomasville Heights
+508,C,Wildwood (NPU-C)
+112,G,Atlanta Industrial Park
+412,R,Southwest
+406,I,Westwood Terrace
+211,C,Wildwood (NPU-C)
+313,Z,Rosedale Heights
+102,J,Grove Park
+407,G,Scotts Crossing
+604,N,Inman Park
+306,X,Capitol View
+508,E,Home Park
+209,B,Lenox
+112,K,Washington Park
+212,E,Midtown
+205,B,Peachtree Hills
+306,V,Pittsburgh
+109,E,Midtown
+603,N,Poncey-Highland
+112,I,Harland Terrace
+409,P,Kings Forest
+309,Y,Joyland
+404,P,Ben Hill
+109,F,Lindridge/Martin Manor
+501,G,Carey Park
+207,C,Cross Creek
+313,X,Hammond Park
+608,null,null
+612,N,Reynoldstown
+312,Y,Joyland
+504,M,Sweet Auburn
+102,G,West Highlands
+311,null,null
+607,X,Perkerson
+412,L,Vine City
+611,null,null
+113,D,Riverside
+304,Y,South Atlanta
+309,Z,Rosedale Heights
+509,N,Cabbagetown
+102,M,Castleberry Hill
+512,R,Southwest
+401,J,Grove Park
+507,S,Venetian Hills
+602,E,Marietta Street Artery
+204,C,Collier Hills
+410,H,Wilson Mill Meadows
+208,C,Cross Creek
+305,M,Sweet Auburn
+607,M,Old Fourth Ward
+302,M,Old Fourth Ward
+304,Y,Lakewood Heights
+413,P,Princeton Lakes
+401,S,Cascade Avenue/Road
+102,E,Marietta Street Artery
+305,T,West End
+306,H,Old Gordon
+301,M,Old Fourth Ward
+504,F,Virginia Highland
+508,E,Marietta Street Artery
+204,B,Buckhead Village
+201,D,Berkeley Park
+208,F,Morningside/Lenox Park
+102,A,Paces
+108,M,Downtown
+401,W,Ormewood Park
+503,B,East Chastain Park
+406,null,null
+104,X,Perkerson
+511,V,Capitol Gateway
+606,N,Poncey-Highland
+308,Z,Lakewood
+101,T,West End
+103,L,English Avenue
+108,E,Marietta Street Artery
+107,J,West Lake
+301,W,East Atlanta
+204,C,Brandon
+408,T,West End
+413,P,Ben Hill Acres
+507,H,Adamsville
+507,V,Adair Park
+602,N,Inman Park
+603,D,Blandtown
+604,T,West End
+107,L,English Avenue
+609,N,Druid Hills
+303,T,The Villages at Castleberry H
+310,X,Perkerson
+211,F,Piedmont Heights
+203,L,English Avenue
+104,M,Downtown
+109,O,East Lake
+505,D,Underwood Hills
+305,Y,Betmar LaVilla
+107,T,West End
+301,M,Downtown
+608,O,East Lake
+304,B,Garden Hills
+210,W,Grant Park
+206,E,Midtown
+601,N,null
+506,M,Old Fourth Ward
+205,M,Downtown
+108,H,Adamsville
+411,R,Campbellton Road
+411,T,West End
+609,O,The Villages at East Lake
+112,G,English Park
+503,E,Home Park
+405,K,Hunter Hills
+602,R,Southwest
+601,O,Kirkwood
+304,Y,Chosewood Park
+310,Z,South River Gardens
+111,A,Randall Mill
+603,M,Sweet Auburn
+302,V,Mechanicsville
+308,O,Kirkwood
+511,B,Lindbergh/Morosgo
+212,S,Cascade Avenue/Road
+304,V,Pittsburgh
+611,N,Poncey-Highland
+413,H,Mays
+405,C,Argonne Forest
+604,E,null
+410,I,Florida Heights
+304,V,Mechanicsville
+406,H,Fairburn Mays
+409,Z,Glenrose Heights
+508,C,Channing Valley
+410,R,Greenbriar
+108,L,Vine City
+208,F,null
+506,N,Poncey-Highland
+403,B,Lindbergh/Morosgo
+602,Z,Browns Mill Park
+501,D,Berkeley Park
+208,C,null
+603,P,null
+202,A,Paces
+204,C,Wildwood (NPU-C)
+105,Z,Glenrose Heights
+612,O,East Lake
+501,E,Ansley Park
+101,I,null
+311,Z,South River Gardens
+210,B,Peachtree Heights West
+506,null,null
+605,W,East Atlanta
+507,E,Marietta Street Artery
+601,F,Morningside/Lenox Park
+103,J,West Lake
+111,G,Monroe Heights
+105,J,Dixie Hills
+110,H,Bankhead Courts
+210,F,Morningside/Lenox Park
+213,B,North Buckhead
+312,R,Campbellton Road
+406,R,Campbellton Road
+501,V,Mechanicsville
+413,R,Southwest
+413,R,Greenbriar
+411,I,null
+112,M,Downtown
+309,X,Sylvan Hills
+103,K,Hunter Hills
+606,W,Reynoldstown
+506,M,null
+302,Y,Joyland
+608,Z,Glenrose Heights
+512,K,Hunter Hills
+104,H,Fairburn Heights
+111,H,Carroll Heights
+708,null,null
+307,Z,Polar Rock
+604,W,Oakland
+603,V,Pittsburgh
+310,V,Mechanicsville
+203,Y,South Atlanta
+512,V,Mechanicsville
+111,G,Carver Hills
+503,M,Old Fourth Ward
+603,N,Druid Hills
+404,T,Westview
+403,T,Westview
+406,J,Grove Park
+110,M,Downtown
+307,X,Sylvan Hills
+103,J,null
+309,Z,Leila Valley
+301,V,Mechanicsville
+305,Y,Englewood Manor
+408,R,Greenbriar
+511,B,Garden Hills
+102,J,Penelope Neighbors
+213,C,null
+406,I,Harland Terrace
+602,O,Edgewood
+605,M,Old Fourth Ward
+413,P,Deerwood
+408,L,English Avenue
+305,V,Summerhill
+111,H,Fairburn Mays
+505,X,Capitol View
+403,P,null
+109,I,Harland Terrace
+205,J,Grove Park
+105,L,Washington Park
+601,M,Old Fourth Ward
+508,B,East Chastain Park
+511,T,West End
+605,N,Cabbagetown
+408,null,Greenbriar
+612,N,Poncey-Highland
+206,E,null
+306,null,null
+101,I,Collier Heights
+208,E,Atlantic Station
+202,M,Downtown
+106,T,Ashview Heights
+305,O,Kirkwood
+401,E,Midtown
+307,W,Benteen Park
+307,Z,Norwood Manor
+309,Z,Browns Mill Park
+107,K,Washington Park
+310,X,Sylvan Hills
+505,B,Lindbergh/Morosgo
+602,null,null
+109,R,Southwest
+607,O,Edgewood
+103,L,Bankhead
+212,B,Peachtree Park
+311,V,Peoplestown
+607,Y,Lakewood Heights
+209,D,Blandtown
+112,G,Collier Heights
+112,J,Grove Park
+609,N,Candler Park
+106,B,North Buckhead
+306,Z,Thomasville Heights
+104,J,Center Hill
+501,L,Vine City
+305,X,Sylvan Hills
+210,T,Westview
+106,K,null
+401,J,Center Hill
+210,B,Brookhaven
+401,O,East Lake
+601,L,English Avenue
+601,N,Druid Hills
+602,O,Kirkwood
+501,I,null
+114,J,Grove Park
+201,D,Bolton
+401,R,Campbellton Road
+605,V,Pittsburgh
+313,O,The Villages at East Lake
+101,Z,Browns Mill Park
+605,B,Buckhead Village
+104,R,Campbellton Road
+610,O,East Lake
+401,I,null
+602,B,Pine Hills
+108,B,North Buckhead
+304,I,Harland Terrace
+211,M,Sweet Auburn
+507,Z,Polar Rock
+304,E,Midtown
+301,V,Peoplestown
+111,J,Dixie Hills
+212,B,Buckhead Forest
+508,N,Reynoldstown
+506,E,null
+204,A,Randall Mill
+203,G,West Highlands
+504,G,West Highlands
+207,E,Home Park
+502,V,Summerhill
+310,Z,Leila Valley
+502,E,Atlantic Station
+401,V,Mechanicsville
+611,M,Old Fourth Ward
+108,Y,Lakewood Heights
+606,A,Pleasant Hill
+503,M,Castleberry Hill
+205,A,West Paces Ferry/Northside
+307,F,Piedmont Heights
+410,null,null
+405,H,Baker Hills
+213,G,West Highlands
+307,Z,Rebel Valley Forest
+411,H,Adamsville
+311,G,Lincoln Homes
+503,E,Atlantic Station
+204,P,Ben Hill
+203,V,Pittsburgh
+305,L,Vine City
+202,null,null
+211,B,Pine Hills
+206,D,Blandtown
+502,I,Collier Heights
+306,V,Summerhill
+212,B,Pine Hills
+511,M,Sweet Auburn
+102,Y,Joyland
+501,B,South Tuxedo Park
+602,F,Atkins Park
+401,S,Oakland City
+111,H,Wilson Mill Meadows
+607,F,Virginia Highland
+612,R,Southwest
+207,B,Buckhead Heights
+209,B,Buckhead Forest
+201,B,Buckhead Heights
+413,P,Ashley Courts
+509,R,Greenbriar
+502,B,Peachtree Heights West
+605,W,Custer/McDonough/Guice
+401,I,Westwood Terrace
+512,T,West End
+405,K,Mozley Park
+510,J,Penelope Neighbors
+102,N,Candler Park
+305,W,Benteen Park
+311,J,Grove Park
+305,N,Cabbagetown
+504,Z,Thomasville Heights
+507,X,Perkerson
+309,Z,Thomasville Heights
+103,S,Oakland City
+408,Z,Leila Valley
+504,E,Home Park
+404,null,null
+409,M,Old Fourth Ward
+308,Y,South Atlanta
+310,Z,Blair Villa/Poole Creek
+501,E,Brookwood
+305,S,Venetian Hills
+207,T,West End
+407,E,Midtown
+501,K,Knight Park/Howell Station
+412,P,Princeton Lakes
+211,E,Midtown
+312,I,null
+511,I,Cascade Heights
+306,N,Poncey-Highland
+107,J,Dixie Hills
+207,O,The Villages at East Lake
+404,T,null
+313,Z,Thomasville Heights
+510,Y,The Villages at Carver
+206,E,Brookwood Hills
+101,J,Center Hill
+202,B,Tuxedo Park
+211,B,South Tuxedo Park
+605,V,Peoplestown
+304,K,Hunter Hills
+211,T,The Villages at Castleberry H
+405,H,Adamsville
+302,X,Sylvan Hills
+604,B,Peachtree Heights West
+601,E,Midtown
+504,J,Grove Park
+414,R,Southwest
+206,C,Hanover West
+103,M,Downtown
+206,B,Peachtree Hills
+306,Y,Amal Heights
+302,I,Harland Terrace
+605,B,Buckhead Forest
+311,Z,Blair Villa/Poole Creek
+101,K,Washington Park
+501,E,null
+202,A,Pleasant Hill
+307,V,Pittsburgh
+408,R,Southwest
+207,B,Peachtree Hills
+110,H,Old Gordon
+509,M,Castleberry Hill
+213,E,Midtown
+510,E,Atlantic Station
+607,I,Westwood Terrace
+308,Z,South River Gardens
+411,R,null
+407,I,Audobon Forest
+312,Y,Lakewood Heights
+203,C,Hanover West
+403,V,Pittsburgh
+502,V,Mechanicsville
+407,T,West End
+111,X,Sylvan Hills
+608,W,East Atlanta
+510,M,Castleberry Hill
+506,F,Lindridge/Martin Manor
+313,X,Perkerson
+210,W,Woodland Hills
+604,W,Boulevard Heights
+401,W,Grant Park
+101,H,Adamsville
+208,A,Mt. Paran Parkway
+407,M,Downtown
+411,null,null
+110,H,Bankhead/Bolton
+506,L,English Avenue
+112,G,null
+604,N,Reynoldstown
+509,W,Grant Park
+607,Y,Benteen Park
+605,W,Boulevard Heights
+210,B,Garden Hills
+511,E,Marietta Street Artery
+608,N,Poncey-Highland
+408,K,Bankhead
+212,B,Lenox
+411,P,Rue Royal
+406,S,null
+606,B,North Buckhead
+604,O,Kirkwood
+602,W,Ormewood Park
+509,L,English Avenue
+410,P,Princeton Lakes
+202,B,Peachtree Park
+511,B,Lenox
+111,H,Bankhead Courts
+507,E,Home Park
+504,B,Lindbergh/Morosgo
+207,B,Lenox
+401,R,Southwest
+407,H,null
+114,G,Carey Park
+606,R,Greenbriar
+103,T,Atlanta University Center
+307,V,Mechanicsville
+407,Y,Lakewood Heights
+610,W,East Atlanta
+501,F,Virginia Highland
+502,M,Old Fourth Ward
+212,V,Mechanicsville
+205,B,Buckhead Village
+112,V,Peoplestown
+414,P,Mellwood
+305,F,Virginia Highland
+308,Y,Lakewood Heights
+103,K,Mozley Park
+403,G,Lincoln Homes
+206,B,Buckhead Heights
+206,B,East Chastain Park
+410,S,Cascade Avenue/Road
+304,V,Adair Park
+313,V,Peoplestown
+103,F,Piedmont Heights
+109,I,null
+507,O,Kirkwood
+113,F,Piedmont Heights
+412,P,Fairburn
+208,P,null
+304,X,Sylvan Hills
+408,M,Downtown
+203,B,Buckhead Forest
+303,O,East Lake
+308,M,Downtown
+207,B,North Buckhead
+104,T,The Villages at Castleberry H
+308,I,Harland Terrace
+409,T,West End
+213,B,Buckhead Forest
+406,O,Edgewood
+307,Y,The Villages at Carver
+410,T,West End
+304,X,Capitol View
+403,I,Westwood Terrace
+505,O,Kirkwood
+313,P,null
+208,A,Paces
+108,Z,South River Gardens
+508,E,Loring Heights
+510,E,Home Park
+609,F,Virginia Highland
+605,N,Druid Hills
+607,I,East Ardley Road
+602,H,Mays
+101,V,Mechanicsville
+202,E,Midtown
+309,M,Downtown
+507,R,null
+502,E,Georgia Tech
+211,B,Peachtree Heights West
+408,null,null
+306,I,Florida Heights
+410,P,Deerwood
+112,P,Princeton Lakes
+501,T,Ashview Heights
+301,Y,Lakewood Heights
+313,O,Kirkwood
+510,D,Riverside
+205,F,Morningside/Lenox Park
+406,I,Collier Heights
+113,M,Old Fourth Ward
+104,I,Harland Terrace
+204,B,North Buckhead
+410,L,English Avenue
+209,E,Atlantic Station
+213,E,Brookwood Hills
+111,W,Grant Park
+107,G,Monroe Heights
+202,B,Lenox
+114,I,Collier Heights
+210,F,Piedmont Heights
+108,R,Adams Park
+303,X,Capitol View
+308,Z,Blair Villa/Poole Creek
+108,H,Fairburn Mays
+210,E,null
+102,F,Lindridge/Martin Manor
+112,G,Carey Park
+303,V,Peoplestown
+213,B,Lindbergh/Morosgo
+206,N,Lake Claire
+706,M,Downtown
+407,P,null
+408,P,Kings Forest
+509,F,Lindridge/Martin Manor
+403,I,null
+101,B,North Buckhead
+108,V,Mechanicsville
+114,K,Hunter Hills
+610,W,Boulevard Heights
+206,C,Brandon
+109,M,Downtown
+110,F,null
+403,null,null
+508,Z,Glenrose Heights
+110,V,Mechanicsville
+312,L,English Avenue
+204,H,Carroll Heights
+604,X,Capitol View Manor
+405,R,Campbellton Road
+505,K,Washington Park
+401,H,Adamsville
+413,P,Briar Glen
+306,E,Midtown
+206,V,Pittsburgh
+303,X,Hammond Park
+210,K,Bankhead
+512,W,Oakland
+208,T,Atlanta University Center
+602,F,Piedmont Heights
+303,I,null
+312,Z,Polar Rock
+109,J,Almond Park
+401,L,English Avenue
+606,M,Old Fourth Ward
+411,P,Kings Forest
+301,V,Capitol Gateway
+101,V,Summerhill
+207,B,Lindbergh/Morosgo
+412,P,Elmco Estates
+511,E,Home Park
+409,R,Greenbriar
+202,C,Brandon
+609,X,Hammond Park
+104,D,Berkeley Park
+411,X,Sylvan Hills
+414,null,null
+610,M,Old Fourth Ward
+407,I,Harland Terrace
+508,B,Buckhead Village
+108,I,Collier Heights
+104,J,West Lake
+308,W,Grant Park
+109,W,Boulevard Heights
+210,J,West Lake
+211,T,Atlanta University Center
+414,F,Piedmont Heights
+204,J,Penelope Neighbors
+607,E,Midtown
+101,K,Mozley Park
+501,M,Old Fourth Ward
+208,V,Summerhill
+108,T,West End
+206,T,Westview
+512,V,Summerhill
+209,B,Pine Hills
+210,V,Mechanicsville
+201,E,Loring Heights
+106,X,Hammond Park
+308,W,Benteen Park
+104,V,Peoplestown
+109,J,Penelope Neighbors
+412,V,Pittsburgh
+510,F,Piedmont Heights
+413,H,null
+204,N,Reynoldstown
+603,T,West End
+406,Z,Lakewood
+405,O,Kirkwood
+303,L,English Avenue
+414,P,Niskey Lake
+603,B,North Buckhead
+309,Y,Amal Heights
+407,R,Adams Park
+211,C,Argonne Forest
+114,H,Adamsville
+302,W,Grant Park
+311,Z,Orchard Knob
+212,H,Carroll Heights
+303,Y,Lakewood Heights
+609,W,Ormewood Park
+504,R,Campbellton Road
+104,K,Bankhead
+209,F,Lindridge/Martin Manor
+105,Z,Polar Rock
+212,D,Underwood Hills
+202,A,Margaret Mitchell
+201,A,Kingswood
+506,E,Atlantic Station
+406,P,Elmco Estates
+307,V,Adair Park
+306,W,Custer/McDonough/Guice
+111,I,Collier Heights
+105,G,Carey Park
+205,B,Garden Hills
+608,Z,Blair Villa/Poole Creek
+206,A,Paces
+601,F,null
+505,M,Sweet Auburn
+403,M,Downtown
+604,E,Midtown
+306,Y,Joyland
+109,null,null
+107,T,Atlanta University Center
+511,I,Harland Terrace
+508,J,West Lake
+213,B,South Tuxedo Park
+509,N,Inman Park
+401,M,Old Fourth Ward
+102,M,Sweet Auburn
+105,T,Atlanta University Center
+102,K,Hunter Hills
+606,W,null
+108,I,Harland Terrace
+107,E,Brookwood Hills
+207,C,Colonial Homes
+312,B,Lindbergh/Morosgo
+101,C,null
+208,F,Virginia Highland
+406,E,null
+508,J,Penelope Neighbors
+205,B,Lindbergh/Morosgo
+310,B,Buckhead Forest
+605,I,Westhaven
+107,I,Collier Heights
+205,D,Blandtown
+508,E,Georgia Tech
+109,I,Center Hill
+409,I,Magnum Manor
+101,K,Bankhead
+609,R,Greenbriar
+505,K,Hunter Hills
+604,O,Edgewood
+202,E,null
+402,H,Adamsville
+206,F,Piedmont Heights
+405,J,Dixie Hills
+510,E,null
+612,K,Bankhead
+502,K,Washington Park
+511,B,Buckhead Forest
+205,E,Brookwood Hills
+210,A,West Paces Ferry/Northside
+511,B,East Chastain Park
+307,V,Peoplestown
+609,M,Downtown
+405,I,Cascade Heights
+313,E,Midtown
+503,N,Poncey-Highland
+208,L,English Avenue
+414,C,Wildwood (NPU-C)
+605,F,Druid Hills
+203,A,Chastain Park
+101,I,Westhaven
+501,B,Pine Hills
+408,O,Kirkwood
+412,R,Adams Park
+407,S,Fort McPherson
+111,J,Center Hill
+102,K,Bankhead
+202,O,Kirkwood
+104,X,Hammond Park
+505,F,Morningside/Lenox Park
+303,W,Grant Park
+304,Y,The Villages at Carver
+609,null,null
+111,H,Fairburn Heights
+605,F,Virginia Highland
+304,V,Grant Park
+212,F,Virginia Highland
+309,K,Mozley Park
+511,F,Virginia Highland
+411,O,The Villages at East Lake
+203,J,Center Hill
+607,N,Poncey-Highland
+206,C,Peachtree Battle Alliance
+403,X,Capitol View
+204,V,Capitol Gateway
+413,X,Capitol View
+301,L,English Avenue
+508,P,null
+508,F,Lindridge/Martin Manor
+209,J,Harvel Homes Community
+307,N,Poncey-Highland
+505,Y,Chosewood Park
+507,I,Horseshoe Community
+309,H,Bankhead Courts
+211,B,North Buckhead
+110,I,Harland Terrace
+209,B,Ridgedale Park
+403,P,Lake Estates
+312,I,Collier Heights
+610,O,The Villages at East Lake
+606,M,Sweet Auburn
+211,R,Southwest
+409,X,Sylvan Hills
+108,G,Monroe Heights
+203,M,Downtown
+207,W,Oakland
+601,B,Buckhead Village
+412,S,Venetian Hills
+301,W,Grant Park
+110,G,Brookview Heights
+202,D,Hills Park
+309,null,Hammond Park
+506,D,Berkeley Park
+301,O,Edgewood
+206,I,Westwood Terrace
+612,N,Inman Park
+207,A,Paces
+303,T,Atlanta University Center
+606,N,Candler Park
+410,B,Lenox
+414,null,Huntington
+113,I,Westhaven
+604,L,English Avenue
+108,K,Washington Park
+203,V,Peoplestown
+302,Z,South River Gardens
+411,R,Adams Park
+204,F,Virginia Highland
+506,G,Carey Park
+414,P,Arlington Estates
+410,P,Lake Estates
+307,Y,Chosewood Park
+114,T,Harris Chiles
+708,X,null
+407,W,Ormewood Park
+303,X,Perkerson
+201,R,Greenbriar
+407,R,Campbellton Road
+112,L,Vine City
+212,J,Grove Park
+114,X,Sylvan Hills
+606,V,Capitol Gateway
+607,Z,Thomasville Heights
+102,T,The Villages at Castleberry H
+412,H,Adamsville
+213,M,Sweet Auburn
+106,K,Mozley Park
+307,Y,High Point
+107,J,null
+109,J,null
+207,E,Marietta Street Artery
+313,M,Downtown
+208,J,Grove Park
+311,X,Capitol View
+305,B,Lenox
+213,N,Poncey-Highland
+502,C,Peachtree Battle Alliance
+108,K,Hunter Hills
+507,F,Virginia Highland
+602,W,Grant Park
+108,K,Bankhead
+213,M,Downtown
+606,O,East Lake
+203,S,Oakland City
+305,Z,Thomasville Heights
+210,Z,Glenrose Heights
+305,F,Druid Hills
+308,Z,Rosedale Heights
+111,G,Scotts Crossing
+206,E,Loring Heights
+307,T,West End
+406,X,Capitol View
+202,T,West End
+210,E,Midtown
+607,F,Piedmont Heights
+114,J,Center Hill
+207,C,Channing Valley
+414,W,Grant Park
+306,null,Sylvan Hills
+206,K,Knight Park/Howell Station
+608,F,Virginia Highland
+605,N,Grant Park
+301,V,Summerhill
+302,O,The Villages at East Lake
+403,R,Greenbriar
+503,J,Grove Park
+608,F,Druid Hills
+105,G,Monroe Heights
+207,C,Wildwood (NPU-C)
+207,B,Peachtree Park
+504,M,Old Fourth Ward
+405,H,Fairburn Mays
+413,H,Fairburn Mays
+114,I,null
+202,C,Memorial Park
+306,M,Downtown
+202,C,Cross Creek
+414,P,Fairburn
+101,E,Home Park
+508,F,Virginia Highland
+205,X,Hammond Park
+206,E,Ardmore
+308,V,Pittsburgh
+302,W,Ormewood Park
+604,J,Grove Park
+410,F,Lindridge/Martin Manor
+507,D,Bolton
+502,M,Downtown
+510,E,Marietta Street Artery
+113,G,English Park
+106,G,Carey Park
+606,W,Woodland Hills
+412,P,Regency Trace
+305,Y,Benteen Park
+408,V,Mechanicsville
+207,B,South Tuxedo Park
+303,T,Ashview Heights
+902,V,Mechanicsville
+409,Q,Midwest Cascade
+106,M,Downtown
+604,W,Custer/McDonough/Guice
+509,B,Garden Hills
+302,M,Downtown
+505,F,Virginia Highland
+113,T,Ashview Heights
+506,E,Marietta Street Artery
+307,H,Carroll Heights
+206,E,Ansley Park
+205,P,Ben Hill
+306,Z,Orchard Knob
+505,P,Meadowbrook Forest
+413,I,null
+409,P,Ben Hill Pines
+201,L,English Avenue
+507,W,Grant Park
+309,V,Pittsburgh
+111,G,Almond Park
+113,O,Kirkwood
+113,M,Downtown
+402,I,Harland Terrace
+508,X,Sylvan Hills
+209,B,Peachtree Heights West
+109,J,Dixie Hills
+110,T,West End
+205,A,Margaret Mitchell
+512,Z,Browns Mill Park
+307,Y,null
+104,M,Old Fourth Ward
+502,B,Buckhead Forest
+303,T,West End
+102,K,Mozley Park
+304,E,Marietta Street Artery
+406,H,Old Gordon
+411,J,Center Hill
+212,V,Summerhill
+206,V,Mechanicsville
+402,E,Midtown
+405,I,Peyton Forest
+411,null,Campbellton Road
+608,F,Atkins Park
+102,V,Mechanicsville
+113,K,Washington Park
+408,H,Adamsville
+312,A,Tuxedo Park
+401,X,Capitol View
+511,R,Greenbriar
+402,S,Venetian Hills
+407,S,Cascade Avenue/Road
+604,M,Inman Park
+112,J,null
+202,B,South Tuxedo Park
+506,M,Castleberry Hill
+103,T,West End
+303,E,Loring Heights
+602,E,null
+411,P,Arlington Estates
+110,H,Fairburn Heights
+201,A,Tuxedo Park
+302,R,Greenbriar
+407,A,Tuxedo Park
+110,I,null
+607,N,Reynoldstown
+413,P,Ben Hill
+511,E,Ardmore
+206,C,Colonial Homes
+606,H,Adamsville
+106,G,Scotts Crossing
+605,F,Morningside/Lenox Park
+609,V,Summerhill
+109,M,Sweet Auburn
+409,S,Adams Park
+210,B,Buckhead Forest
+407,F,Virginia Highland
+406,R,Southwest
+205,B,Peachtree Heights West
+114,G,Monroe Heights
+308,I,Collier Heights
+114,H,Fairburn Mays
+404,P,null
+203,S,Cascade Avenue/Road
+307,J,Dixie Hills
+407,K,Bankhead
+507,E,Midtown
+311,V,Mechanicsville
+203,D,null
+605,W,Benteen Park
+607,O,The Villages at East Lake
+404,D,Bolton
+302,X,Perkerson
+607,O,Kirkwood
